@@ -18,7 +18,8 @@ Step2: Create a new project in PyCharm and open the extracted file in it.
 
 Step3: Before running the project install flask, pandas & textdistance.
 
-Step4: After completing the procedure run the file app.py it will generate a url in the terminal, open the url on web browser. 
+Step4: After completing the procedure run the file app.py it will generate a url in the terminal, 
+       open the url on web browser. 
 
 # Output
 
