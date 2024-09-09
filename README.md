@@ -22,4 +22,11 @@ Step4: After completing the procedure run the file app.py it will generate a url
 
 # Output
 
+![Screenshot 2024-09-09 200700](https://github.com/user-attachments/assets/367781f9-9efe-430e-a526-04a45f037ffa)
+
+![Screenshot 2024-09-09 200739](https://github.com/user-attachments/assets/dce306a9-f20c-4473-a826-d87e0fd6e102)
+
+![Screenshot 2024-09-09 200750](https://github.com/user-attachments/assets/9a399ad6-904e-48c0-8e1c-fea0a330d730)
+
+
 
